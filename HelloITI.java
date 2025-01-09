@@ -1,7 +1,11 @@
 class HelloITI {
     public static void main(String[] args) {
-        System.out.println("Hello ITI");
+        printHelloITI();
     }
+	
+	public static void printHelloITI(){
+		System.out.println("Hello ITI");
+	}
 	
 } 
  
